@@ -92,7 +92,7 @@ PbC_Final + geom_text(vjust=0,nudge_y = 5) +
   annotate("text", x=5,y=201.24, label= "Mean = 191.24%", colour="#555555")
 
 cor(ICP[c(6,11,12)],ICP[c(6,11,12)])
-cov(ICP$
+
 
 
 
